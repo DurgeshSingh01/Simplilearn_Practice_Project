@@ -1,0 +1,8 @@
+D:\Mphasis\Practice Project\PracticeProject2\Sorting And Searching Student data\Sorting And Searching Student data\bin\Debug\Sorting And Searching Student data.exe.config
+D:\Mphasis\Practice Project\PracticeProject2\Sorting And Searching Student data\Sorting And Searching Student data\bin\Debug\Sorting And Searching Student data.exe
+D:\Mphasis\Practice Project\PracticeProject2\Sorting And Searching Student data\Sorting And Searching Student data\bin\Debug\Sorting And Searching Student data.pdb
+D:\Mphasis\Practice Project\PracticeProject2\Sorting And Searching Student data\Sorting And Searching Student data\obj\Debug\Sorting And Searching Student data.csproj.AssemblyReference.cache
+D:\Mphasis\Practice Project\PracticeProject2\Sorting And Searching Student data\Sorting And Searching Student data\obj\Debug\Sorting And Searching Student data.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Practice Project\PracticeProject2\Sorting And Searching Student data\Sorting And Searching Student data\obj\Debug\Sorting And Searching Student data.csproj.CoreCompileInputs.cache
+D:\Mphasis\Practice Project\PracticeProject2\Sorting And Searching Student data\Sorting And Searching Student data\obj\Debug\Sorting And Searching Student data.exe
+D:\Mphasis\Practice Project\PracticeProject2\Sorting And Searching Student data\Sorting And Searching Student data\obj\Debug\Sorting And Searching Student data.pdb
