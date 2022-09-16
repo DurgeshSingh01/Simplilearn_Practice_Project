@@ -1,0 +1,11 @@
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\PracticeProject3\obj\Debug\PracticeProject3.csproj.AssemblyReference.cache
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\PracticeProject3\obj\Debug\PracticeProject3.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\PracticeProject3\obj\Debug\PracticeProject3.csproj.CoreCompileInputs.cache
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\PracticeProject3\bin\Debug\PracticeProject3.exe.config
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\PracticeProject3\bin\Debug\PracticeProject3.exe
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\PracticeProject3\bin\Debug\PracticeProject3.pdb
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\PracticeProject3\bin\Debug\ClassLibrary.dll
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\PracticeProject3\bin\Debug\ClassLibrary.pdb
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\PracticeProject3\obj\Debug\PracticeProject3.csproj.CopyComplete
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\PracticeProject3\obj\Debug\PracticeProject3.exe
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\PracticeProject3\obj\Debug\PracticeProject3.pdb

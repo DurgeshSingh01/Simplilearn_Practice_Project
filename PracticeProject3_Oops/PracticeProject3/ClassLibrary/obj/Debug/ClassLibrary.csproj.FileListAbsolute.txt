@@ -1,0 +1,6 @@
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Mphasis\Practice Project\PracticeProject3\PracticeProject3\ClassLibrary\obj\Debug\ClassLibrary.pdb
