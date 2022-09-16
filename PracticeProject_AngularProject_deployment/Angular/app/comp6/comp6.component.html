@@ -1,0 +1,14 @@
+<h1>Problem 6</h1>
+
+            <div *ngFor="let user of employee">
+                <ng-container *ngIf="user.employee_age>50;else over">
+                    <div style="color: red;">
+                        {{user.employee_name | uppercase}}({{user.employee_age}})
+                    </div>
+                  </ng-container>
+                  <ng-template #over>
+                    <div style="color: blue;">
+                      {{user.employee_name}}({{user.employee_age}})
+                    </div>
+                  </ng-template>
+                </div>
