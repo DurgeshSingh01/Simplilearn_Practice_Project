@@ -1,0 +1,12 @@
+C:\Users\Durgesh Singh\Source\Repos\CustomerSupportLogger\CustomerDAL\bin\Debug\CustomerDAL.dll.config
+C:\Users\Durgesh Singh\Source\Repos\CustomerSupportLogger\CustomerDAL\bin\Debug\CustomerDAL.dll
+C:\Users\Durgesh Singh\Source\Repos\CustomerSupportLogger\CustomerDAL\bin\Debug\CustomerDAL.pdb
+C:\Users\Durgesh Singh\Source\Repos\CustomerSupportLogger\CustomerDAL\bin\Debug\EntityFramework.dll
+C:\Users\Durgesh Singh\Source\Repos\CustomerSupportLogger\CustomerDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Durgesh Singh\Source\Repos\CustomerSupportLogger\CustomerDAL\bin\Debug\EntityFramework.xml
+C:\Users\Durgesh Singh\Source\Repos\CustomerSupportLogger\CustomerDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Durgesh Singh\Source\Repos\CustomerSupportLogger\CustomerDAL\obj\Debug\CustomerDAL.csproj.AssemblyReference.cache
+C:\Users\Durgesh Singh\Source\Repos\CustomerSupportLogger\CustomerDAL\obj\Debug\CustomerDAL.csproj.CoreCompileInputs.cache
+C:\Users\Durgesh Singh\Source\Repos\CustomerSupportLogger\CustomerDAL\obj\Debug\CustomerDAL.csproj.CopyComplete
+C:\Users\Durgesh Singh\Source\Repos\CustomerSupportLogger\CustomerDAL\obj\Debug\CustomerDAL.dll
+C:\Users\Durgesh Singh\Source\Repos\CustomerSupportLogger\CustomerDAL\obj\Debug\CustomerDAL.pdb
