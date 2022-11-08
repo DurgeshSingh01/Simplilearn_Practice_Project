@@ -1,0 +1,14 @@
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogTrackerApp.Tests\obj\Debug\BlogTrackerApp.Tests.csproj.AssemblyReference.cache
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogTrackerApp.Tests\obj\Debug\BlogTrackerApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogTrackerApp.Tests\bin\Debug\BlogTrackerApp.Tests.dll
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogTrackerApp.Tests\bin\Debug\BlogTrackerApp.Tests.pdb
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogTrackerApp.Tests\bin\Debug\BlogDAL.dll
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogTrackerApp.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogTrackerApp.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogTrackerApp.Tests\bin\Debug\BlogDAL.pdb
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogTrackerApp.Tests\bin\Debug\BlogDAL.dll.config
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogTrackerApp.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogTrackerApp.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogTrackerApp.Tests\obj\Debug\BlogTrackerApp.Tests.csproj.CopyComplete
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogTrackerApp.Tests\obj\Debug\BlogTrackerApp.Tests.dll
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogTrackerApp.Tests\obj\Debug\BlogTrackerApp.Tests.pdb
