@@ -1,0 +1,12 @@
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogDAL\bin\Debug\BlogDAL.dll.config
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogDAL\bin\Debug\BlogDAL.dll
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogDAL\bin\Debug\BlogDAL.pdb
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogDAL\bin\Debug\EntityFramework.dll
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogDAL\bin\Debug\EntityFramework.xml
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogDAL\obj\Debug\BlogDAL.csproj.AssemblyReference.cache
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogDAL\obj\Debug\BlogDAL.csproj.CoreCompileInputs.cache
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogDAL\obj\Debug\BlogDAL.csproj.CopyComplete
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogDAL\obj\Debug\BlogDAL.dll
+C:\Users\Durgesh Singh\Source\Repos\Blog-Tracker-App\BlogDAL\obj\Debug\BlogDAL.pdb
